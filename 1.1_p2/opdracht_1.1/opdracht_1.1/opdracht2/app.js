@@ -1,4 +1,4 @@
-let colors = ["green" , "red" , "blue"];
+let colors = ["green" , "red" , "blue" ]
 
 function changeColors() {
     let randomColors = Math.floor( Math.random() * 3 );
