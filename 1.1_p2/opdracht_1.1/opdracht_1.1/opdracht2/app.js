@@ -21,3 +21,4 @@ shop.push(product)
 output.innerText = shop;
 }
 
+//test
